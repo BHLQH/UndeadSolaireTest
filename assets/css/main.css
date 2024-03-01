@@ -1002,7 +1002,7 @@ table tfoot td {
 
 .content-box {  
   padding: 20px;
-  padding-left: 260px; /*控制页面布局用，大概是中心部分距左侧距离*/
+  padding-left: 360px; /*控制页面布局用，大概是中心部分距左侧距离，原260，改为360*/
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1249,7 +1249,8 @@ a.newer-posts:hover {
 }
 
 .page-footer {
-   display: -webkit-box;
+
+       display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -1265,7 +1266,7 @@ a.newer-posts:hover {
   border-bottom: 1px solid #a0a0a0; 
 }
 
-/*.page-footer .page-share {
+/*.page-footer .page-share { 一些分享选项
   margin-bottom: 10px;
   text-align: left;
 }
@@ -1363,8 +1364,8 @@ a.newer-posts:hover {
 }
 */
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
-/* Medium Devices, Desktops */
-/*@media only screen and (max-width: 992px) {
+/* Medium Devices, Desktops，大概关于不同设备的页面布局 */
+@media only screen and (max-width: 992px) {
   .post {
     width: 48%;
     max-width: 100%;
@@ -1388,7 +1389,7 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
-*/
+
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
   .sidebar {
