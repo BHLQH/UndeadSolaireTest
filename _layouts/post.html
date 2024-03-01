@@ -22,7 +22,10 @@ layout: main
       {{content | markdownify}}
     <div class="page-footer">
 
-        <img class="page-image" src="/assets/img/row/i-rest.gif" alt="{{page.title}}">
+        <img src="{{ '/assets/img/i-rest.gif' | prepend: site.baseurl }}" alt="GIF Image">
+
+
+        <!--<img class="page-image" src="/assets/img/row/i-rest.gif" alt="{{page.title}}">-->
 
         <!--<img src={{ "/assets/img/row/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">-->
         <!--<div class="page-share">-->
