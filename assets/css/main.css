@@ -775,6 +775,7 @@ html {
 body {
     font-family: 'Lato', sans-serif;
     color: #515151;
+<<<<<<< HEAD
     background-color: #FF6347 ;/* #fbfbfb*/
 
     /*background-image: url("i-rest.gif");*/ /* # Ìæ»»ÎªÄãµÄ GIF Í¼Ïñ    URL*/
@@ -784,6 +785,9 @@ body {
     height: 100vh;
     padding: 0;*/
 
+=======
+    background-color: #FF6347 ;/*#fbfbfb*/
+>>>>>>> parent of 5253837 (Update main.css)
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
