@@ -11,10 +11,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 我的爱人索拉尔 # add your name
 author-img: baobao.gif # add your photo
-about-author: retest. # add description
+about-author: retest.中文字体测试 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: 不重要 # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
