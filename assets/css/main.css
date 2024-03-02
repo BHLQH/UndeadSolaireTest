@@ -774,8 +774,14 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
-    color: #515151;
-    background-color: #FF6347 ;/*#fbfbfb*/
+    /*color: #515151;
+    background-color: #FF6347 ;*/ /*#fbfbfb*/
+    background-image: url('file:///D:\Code\github\UxSTXT\UndeadSolaireTest\assets\img\row\i-rest.gif');
+    /*  # Ìæ»»ÎªÄãµÄ GIF Í¼Ïñ    URL*/
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
