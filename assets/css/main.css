@@ -775,7 +775,14 @@ html {
 body {
     font-family: 'Lato', sans-serif;
     color: #515151;
-    background-color: #FF6347 ;/*#fbfbfb*/
+    /*background-color: #FF6347;*/ /*#fbfbfb*/
+
+
+    background-image: url('i-rest.gif'); /* Ìæ»»ÎªÄãµÄÍ¼Æ¬ URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
