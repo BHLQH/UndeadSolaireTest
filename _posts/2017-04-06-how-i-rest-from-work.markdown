@@ -7,6 +7,7 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
+90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever sing
 眼前的一幕既熟悉又陌生，索拉尔伫立在不死城镇的瞭望台上仰望着晃眼但又并不刺目的太阳，任由思维如散溢在空间中光线般安静地飘荡着。巨大炙热的光亮球体挂在天上，周遭的温度并不炎热，
 现在这片空间的温度让他想到家乡的早春，冷冷的空气中细微而温暖的阳光撒在身上，没有什么能比这更抚慰人心
 
