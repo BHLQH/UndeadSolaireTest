@@ -933,7 +933,13 @@ table tfoot td {
     width: 240px;
     height: 100%;
     padding: 20px 10px;
-    background-color: #191970 ;/*#ffffff*/
+
+    background-image: url('sun.jpg'); /* Ìæ»»ÎªÄãµÄÍ¼Æ¬ URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    background-color: #191970; /*#ffffff*/
 }
 
 .about {
