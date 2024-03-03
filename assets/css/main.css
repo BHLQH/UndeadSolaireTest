@@ -778,10 +778,10 @@ body {
     background-color: #1B258B;/* #fbfbfb*/
 
 
-    /*background-image: url('frist.jpg');*/ /* Ìæ»»ÎªÄãµÄÍ¼Æ¬ URL */
-    /*background-size: cover;
+    background-image: url('longsun.png');  /*Ìæ»»ÎªÄãµÄÍ¼Æ¬ URL */
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;*/
+    background-position: center;
 
     margin: 0;
     -webkit-font-smoothing: antialiased;
