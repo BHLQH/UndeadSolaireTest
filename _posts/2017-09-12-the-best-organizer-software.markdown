@@ -3,20 +3,24 @@ layout: post
 title: 坠落伤害
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: zl.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+也是很久前的一篇了qwq;  
+是人性索一个系列的，感觉应该考虑整理一下qwq  
+这个系列可能会涉及群像
 
 ### Church-key blog messenger bag
 
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
+事实证明经验丰富的太阳战士也会脚滑，风声从耳边划过，可怕的失重感让心脏狂跳，索拉尔感受着坠落，微微可惜一会又要重跑了，短暂的剧痛后陷入宁静的黑暗。太阳战士并不是很担心，偶然的死亡打击不到他，不死人的特性和自信的心态让他总能再次站起。
+躯体在篝火旁重组复苏，背下就是踏实的地面，但失重的眩晕感还是模糊了真实，上一刻失衡状态的余韵还未从精神上消退，肌肉僵硬，大口喘气，还伴随着阵阵耳鸣——
+“———?”
+索拉尔还没从死亡的冲击中缓过神来
+“索拉尔!”
+战士终于意识到篝火旁还有一个人，天选担心极了，手甲紧紧抓着他的肩，两个头盔都快贴一起了。“哈哈..不用担心，我这不好好的嘛”索拉尔喘着气安抚性地拍了拍天选的背，示意友人先松开禁锢住他的手，撑起身子，天选还在追问发生了什么，战士有点莫名心虚，“就..一个不小心”“....又是高处坠落？”，一个低级但常见的原因，但发生在战士身上的频率似乎有点高了。桶盔被强硬摘下，战士别扭地移开目光，复生的代价是人性的消散，他的样子算得上憔悴，嘴唇干裂，皮肤灰白，饱满的肌肉微微干瘪，这是意外分开后的第三次死亡。
+天选看着狼狈的友人——前不久升级成了爱人，心疼和烦躁混合在一起，
+总是这样...总是这样！骁勇的太阳战士像是从没真正的惧怕过死亡，避免受伤是为了节省原素瓶瓶
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
-
-### Pour-over blue bottle woke listicle
-
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
-
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
+说是一起前行，但索拉尔还是喜欢独自乱跑，一不小心就没人影了，好，祂尊重爱人的自由，但是偏偏——太阳战士喜欢莽，意外死亡完全拦不住他。先前悄悄侵染爱人时留下的人性应该早就耗完了，一些可怕的想象在天选脑海里显现，如果一直没遇见，如果继续死下去，如果——天选卸下下半面甲，贴上爱人的脸颊，黑色的柔韧胶体轻而易举地撬开唇齿钻入其中，祂是漆黑人性的聚合体，而索拉尔的当务之急就是补充人性。
+口腔被突然入侵，索拉尔不知道该不该反抗，他眼前的盔甲缝隙间正渗出缕缕黑色稠液滴落在他身上，他也是不久前才发现同行许久的伙伴并无人形，在天选坦白的那一晚他们间的关系半推半就的成了恋人，像是担心爱人反悔，在此之后天选仍然堪称完美地维持着人类的姿态——但是现在，他的恋人情绪好像有点糟，眼睛被盖住了，他能清晰感受到微凉的胶体从脖颈下滑游走在肌肤上，胸前是天选的盔甲，背后的胶体像一张网向前蔓延将自己牢牢圈住，这是天选独有的拥抱方式。
