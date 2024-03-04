@@ -20,6 +20,8 @@ tags: [Productivity, Workflow] # add tag
 其实不太知道怎么写了，因为思路改乱了qwq；  
 想往里面加的东西有点多不知道怎么合一起（唉
 
+>This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
+
 ###  正片
 “感觉遮断？真是古怪的奇迹啊..”这是刚刚战胜红灵得到的战利品，索拉尔简单复盘着刚刚的战斗，回想起那红灵不要命的进攻方式大概便是因为它的加持，高频的进攻和难以打断的突刺，舍弃了盾牌换为格挡匕首的战斗方式，不知道多少新手不死人倒在它的手下。“用感觉遮断来逃避疼痛，其实是个胆小鬼呢”，屏蔽了疼痛便也失去了对自身情况的判断，用这种方式逃避疼痛也太天真了，可称不上战士，简单复盘了一下战斗后索拉尔突然想起要快点赶回去，天选还在等着他呢
 
