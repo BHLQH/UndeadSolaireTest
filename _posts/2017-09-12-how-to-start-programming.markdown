@@ -7,8 +7,12 @@ img:  # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 待修改
+>对性爱的高接受度并不代表索拉尔足够开放，
+只是这一次他终于愿意承认自己的需求以及深刻
+明白了堵不如疏——把天选那家伙晾太久可是会出
+大问题的。
 >(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)
->
+
 对性爱的高接受度并不代表索拉尔足够开放，只是这一次他终于愿意承认自己的需求以及深刻明白了堵不如疏——把天选那家伙晾太久可是会出大问题的。就像遛狗一样，索拉尔莫名想到到，如果平时不把精力消耗一下，最后闹腾起来他可遭不住；同样的，他更喜欢由自己主导的性事，他很清楚如果被天选掌控那结果大概率是自己会在天选身下颤抖着失控。
 
 索拉尔自认为自己做的不错，适当的挑逗，奖励和小小的威胁并发，再加上一些温柔的情话，这些就足够打乱天选原有的步调按着自己的指引来；当然——还要注意隐藏一下自己偶尔失态的表情，被管教太久的狗如果闻到血肉的味道还是会唤醒起大快朵颐的记忆
