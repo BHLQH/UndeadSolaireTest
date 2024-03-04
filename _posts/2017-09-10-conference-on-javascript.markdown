@@ -3,7 +3,7 @@ layout: post
 title: 驯兽高手索拉尔（未完.2600）
 date: 2017-09-10 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: saien.jpg # Add image post (optional)
+img: saien.png # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
 是，就是这个鬼名字（悲  
@@ -17,7 +17,7 @@ tags: [Js, Conference] # add tag
 不过不死人是给金闪闪带来了一些心理阴影呢（笑
 
 
-（啧，金闪闪的语句触发了markdown语法，还要我一个个改
+（啧，笑早了，金闪闪的语句触发了markdown语法，还要我一个个改
 
 >(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)
 
