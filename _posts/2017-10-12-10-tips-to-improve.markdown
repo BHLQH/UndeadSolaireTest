@@ -11,6 +11,7 @@ tags: [Productivity, Workflow] # add tag
  
 确实很糟糕，两人都坚定了原有的性爱方式；  
 谁都没爽到；  
+撅人者终被撅；  
 索还是双性，考虑要不要加入菜狗系列嗯..
 
 >This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
@@ -26,6 +27,8 @@ tags: [Productivity, Workflow] # add tag
 空虚感，源于内心的空虚感，他早就失去了在不死院前的记忆，但大抵还记着食物是生命的燃料，但当现在生命由原素支撑，火的余温也看不上那些低质的燃料，投入腹中的食物就像掉入炉中的纸片，什么也提供不了，什么也不会留下。吃了几个苔藓球，除了清凉的味道残留在口中什么也没有发生。他不知道该不该庆幸是自己挡下了那个偷袭者的攻击，这感觉太难受了绝对不是普通媚药什么的，晕晕乎乎地摇了摇头，他绝不想让索拉尔经历这种感觉，但现在面对肚子深处的饥渴感他也不知道自己该怎么办了。
 
 天选费力地用一边的手肘把自己撑在索拉尔大腿上努力口交，
+
+主要是被下图色到了，
 
 
 ![undead]({{site.baseurl}}/assets/img/QQ图片20240305185813.jpg)
