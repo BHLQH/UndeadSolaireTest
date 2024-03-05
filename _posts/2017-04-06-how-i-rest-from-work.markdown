@@ -10,7 +10,7 @@ tags: [Holidays, Hawaii]
  我悟了，把长篇分开写不就是短篇了吗！\
  只要搭好框架再往里面添内容就方便啦；\
  这个系列大概是索拉尔从少夫到熟夫的过程(嗯)\
- 大概是虽然我忘了你，但是还习惯着爱上你（？\
+ 大概是虽然我忘了你，但是还习惯着爱上你（？
 
  >This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq  
  过去意识到的时候时间已经来不及了，但现在终有机会从头告诉一遍我爱你，就是边推进度边搞黄的日常，不过这次的世界有些不同了  
