@@ -62,5 +62,5 @@ This text is for character checking, don't worry about it.I'm sorry my technical
 
 
 
-[轮回]({{site.baseurl}}/assets/img/i-rest4.jpg)
+[轮回]({{site.baseurl}}/assets/img/row/i-rest4.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/row/i-rest2.jpg)
