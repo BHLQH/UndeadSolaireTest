@@ -8,7 +8,7 @@ tags: [Js, Conference] # add tag
 ---
 
 >“先升级直剑吗？其实你的护甲该加固了”索拉尔有点犹豫，但他的楔形石确实不够了，再说，有了盾护甲能出什么大问题呢？  
->(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)
+>(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)  
 是，就是这个鬼名字（悲  
 >很早之前写的一篇，还没到肉的环节   
 没有经过检查，可能有语句不通畅和错字qwq；  
