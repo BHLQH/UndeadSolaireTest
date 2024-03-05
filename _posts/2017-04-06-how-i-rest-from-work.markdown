@@ -11,14 +11,14 @@ tags: [Holidays, Hawaii]
  只要搭好框架再往里面添内容就方便啦；\
  这个系列大概是索拉尔从少夫到熟夫的过程(嗯)\
  大概是虽然我忘了你，但是还习惯着爱上你（？\
+
+ >This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
  过去意识到的时候时间已经来不及了，\
- 但现在终有机会从头在再爱你一遍\
+ 但现在终有机会从头告诉一遍我爱你\
  就是边推进度边搞黄的日常\
  不过这次的世界有些不同了
- 
- 怎么写着一转纯爱了，明明初心是想看熟夫索拉尔啊(痛苦
 
-This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
+  怎么写着一转纯爱了，明明初心是想看熟夫索拉尔啊(痛苦
 
 ## 既视感 命运的齿轮缓缓转动
 眼前的一幕既熟悉又陌生， 索拉尔伫立在不死城镇的瞭望台上仰望着晃眼但又并不刺目的太阳，任由思维如散溢在空间中光线般安静地飘荡着。巨大炙热的光亮球体挂在天上，周遭的温度并不炎热，现在这片空间的温度让他 想到家乡的早春，冷冷的空气中细微而温暖的阳光撒在身上，没有什么能比这更抚慰人心
