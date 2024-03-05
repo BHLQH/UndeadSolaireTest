@@ -14,12 +14,12 @@ tags: [Productivity, Workflow] # add tag
 
 >This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
 
-很久前写的了，没有勇气再看完一遍了（痛苦面具；
-可能有错字，不死人的性格没想太多可能会改；
-欢迎大家的建议qwq；
+很久前写的了，没有勇气再看完一遍了（痛苦面具  
+可能有错字，不死人的性格没想太多可能会改  
+欢迎大家的建议qwq
  
-地点还是想改一下，在王女卧室就真成羞耻play了；
-其实不太知道怎么写了，因为思路改乱了qwq；  
+地点还是想改一下，在王女卧室就真成羞耻play了  
+其实不太知道怎么写了，因为思路改乱了qwq    
 想往里面加的东西有点多不知道怎么合一起（唉
 
 
