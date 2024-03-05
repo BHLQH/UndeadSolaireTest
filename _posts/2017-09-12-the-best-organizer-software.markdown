@@ -8,14 +8,14 @@ tags: [Productivity, Software] # add tag
 ---
 
 也是好几个月前的一篇了qwq;  
-是人性索一个系列的，感觉应该考虑从头写起qwq  
 感觉索也像是那种为了理想献上一切的家伙，  
 这样生而为人的感受反而被忽视了  
 (游戏里金闪闪都是装备10掉落5人性，索是装备5掉落2)  
 索不在意天选的形态吗？不在意，只要对前进没
 有影响的他都不在意(目前)  
-这个系列可能会涉及群像
->This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
+
+>This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq  
+>是人性索一个系列的，这个系列可能会涉及群像,感觉应该考虑从头写起qwq  
 ### 正文
 
 事实证明经验丰富的太阳战士也会脚滑，风声从耳边划过，可怕的失重感让心脏狂跳，索拉尔感受着坠落，微微可惜一会又要重跑了，短暂的剧痛后陷入宁静的黑暗。太阳战士并不是很担心，偶然的死亡打击不到他，不死人的特性和自信的心态让他总能再次站起。  
