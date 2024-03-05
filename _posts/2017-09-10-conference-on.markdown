@@ -6,8 +6,11 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: saien.png # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
+
+>“先升级直剑吗？其实你的护甲该加固了”索拉尔有点犹豫，但他的楔形石确实不够了，再说，有了盾护甲能出什么大问题呢？  
+>(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)
 是，就是这个鬼名字（悲  
-很早之前写的一篇，还没到肉的环节qwq； 
+>很早之前写的一篇，还没到肉的环节qwq； 
 没有经过检查，可能有语句不通畅和错字qwq；  
 大概是菜狗天选系列的一部分，是一个欢乐的结尾；  
 虽然这个系列还没搭，但这个世界不死人还是一周目，  
@@ -17,9 +20,9 @@ tags: [Js, Conference] # add tag
 不过不死人是给金闪闪带来了一些心理阴影呢（笑
 
 
-（啧，笑早了，金闪闪的语句触发了markdown语法，还要我一个个改
+>（啧，笑早了，金闪闪的语句触发了MD语法，还要我一个个改
 
->(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)
+
 
 -----------------------------------------------------------------------
 又是这衰败世界中平常的一天，一成不变的打铁声回荡在废弃的古老教堂塔楼中，混杂入一丝沉稳的脚步声，有客人来了。
@@ -28,7 +31,7 @@ tags: [Js, Conference] # add tag
 
 在这里能见到活人实属不易，好人更是罕见，安德烈放下锻造锤，他很乐意和眼前的太阳战士多聊几句，“先升级直剑吗？其实你的护甲该加固了”索拉尔有点犹豫，但他的楔形石确实不够了，再说，有了盾护甲能出什么大问题呢？
 
-婉拒后铁匠耸了耸肩，接过剑打磨着“你朋友——就是穿着上级套的那家伙，前几天来升级了好几次护甲，说是塞恩古城把他害惨了”太阳战士盔顶的红翎羽肉眼可见地晃了晃，“噢 !真的吗？他去塞恩古城了？”语气带着欣喜，看来是个特殊的家伙了  
+婉拒后铁匠耸了耸肩，接过剑打磨着“你朋友——就是穿着上级套的那家伙，前几天来升级了好几次护甲，说是塞恩古城把他害惨了”太阳战士盔顶的红翎羽肉眼可见地晃了晃，“噢!真的吗？他去塞恩古城了？”语气带着欣喜，看来是个特殊的家伙了  
 “是啊，不过上次他回来升了几次副武器后就没再见了，按经验他应该已经攒好继续强化的材料了，希望他现在一切安好”  
 红羽似乎沉重了下来，但又很快地弹起“谢谢您告诉我这些，我一会也去塞恩古城看看，可能之后也要反复回来打扰你啦，哈哈..”  
 真是有活力啊，安德烈抱臂看着太阳战士接过直剑匆匆离去，脚步声带上了焦急，希望这个热心的小伙子也能度过平稳的一天，打铁声再次回荡在塔楼中
