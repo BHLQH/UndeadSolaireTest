@@ -89,4 +89,4 @@ This text is for character checking, don't worry about it.I'm sorry my technical
 
 
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/431134A6AAF0225E919EE0C2620016FC.jpg)
