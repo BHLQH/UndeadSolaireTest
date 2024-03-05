@@ -50,4 +50,4 @@ tags: [Holidays, Hawaii]
 
 
 
-![I and My friends]({{site.baseurl}}/assets/img/i-rest4.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/sun_by_tsoup_dbhww72-375w-2x.jpg)
