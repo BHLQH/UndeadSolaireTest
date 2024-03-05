@@ -9,9 +9,11 @@ img: box.png # Add image post (optional)
 是被宝箱怪咬住的索拉尔  
 没想好要不要加入萌新傻狗不死人和索拉尔旅途的一部分  
 是的话可能会有银纹后续（啊啊啊这都是什么糟糕的东西  
+
+>This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
+
 其实灵感是来自doudz老师的一张萌萌色图  
 为什么我写出的是这种糟糕东西啊（哭  
-This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq
 
 ## 正文
 没有不死人能抵挡住宝箱的诱惑，越过重重机关房间的尽头有一个宝箱这谁不得感激一下神明的恩赐呢？没有防备的战士就这样欣喜地打开了箱子，也许里面有救罗根的钥匙...贪欲者的惩罚就此降下\
