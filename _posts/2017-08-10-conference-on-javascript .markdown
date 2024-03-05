@@ -22,5 +22,7 @@ This text is for character checking, don't worry about it.I'm sorry my technical
 猎物的挣扎直接惹怒了宝箱怪，腰部的压力猛然加大，细长干枯的手拽着大腿的锁甲猛的往外一抽——好消息是他没有被扯成两节，坏消息是裤子彻底退了个干净猛压之下自然渗出了一些…液体。宝箱怪的舌头顺势压上两腿间想将猎物卷入口中，温热的液体诱得大舌头舔了舔，
 
 
+嗯嗯...后续会有媚药触手放置什么的，没想好要不要写到玩坏（良心在谴责...  
+
 ![box]({{site.baseurl}}/assets/img/box.png)
 
