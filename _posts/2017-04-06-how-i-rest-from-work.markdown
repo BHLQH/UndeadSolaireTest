@@ -63,4 +63,4 @@ This text is for character checking, don't worry about it.I'm sorry my technical
 
 
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/row/i-rest2.jpg)
