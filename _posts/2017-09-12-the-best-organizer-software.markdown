@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 坠落伤害
+title: 坠落伤害（未完.2200）
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: zl.png # Add image post (optional)
@@ -46,7 +46,7 @@ tags: [Productivity, Software] # add tag
 “啊..好的，我会注意的，你不用为我担心的，呃..这不是你的责任”索拉尔斟酌着发言，恋人的形态越来越不稳定了，漆黑从视孔中流出让他有点心虚，不动声色的把脚从地上的一摊黑色中挪开。这些本和你无关的，我心里有数，过去独行时也没有问题，战士终究没有说出这些话，面对恋人的担忧他有点内疚，但也是真的没感到这是什么大问题。  
 天选看着索拉尔躲闪的眼神知道对方肯定没有听进去， 没必要忍着了，反正生物趋利避害的本能会让他明白糟蹋生命的代价的。身子向前压去，被体温捂热的胶体又活动起来“干什么..唔”小腿被固定缚在地上了，拇指强硬塞入口中压住舌头，战士咬了咬也没撤出，反而  
 
-
+回忆了一下思路，后续的关键词有点太过激了不太好意思打出来（嗯嗯...，大概还要个两三千字完篇吧，唉
 
 
 ![I and My friends]({{site.baseurl}}/assets/img/QQ图片20240305185819.jpg)
