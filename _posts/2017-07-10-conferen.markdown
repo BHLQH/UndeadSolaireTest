@@ -5,8 +5,8 @@ date: 2024-03-03 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: # Add image post (optional)
 ---
-没想到真的有人会在wb留言点文，虽然只有一个人但还是被感动到了，就先写贪欲者那一篇吧qwq，
-还得到了一位喜欢的大佬的长评指导，感激之情无以言表...应该会从大佬点评的那几篇开始写起。\
+没想到真的有人会在wb留言点文，虽然只有一个人但还是被感动到了qwq，\
+还意外得到了一位喜欢的大佬的长评指导，感激之情无以言表...应该会从大佬点评的那几篇开始写起！\
 嗯嗯...大概一周一两篇，那顺序大概就是贪欲者（尽量控制短点），初见重逢的第三章，
 奇迹使用需谨慎（不太想面对的一篇，我尽力！qwq）  
 剩下的文如果还有人愿意点的话无比感激，欢迎到这篇博文下点文QAQ \
@@ -14,5 +14,6 @@ img: # Add image post (optional)
 再次感激有人愿意吃一口这些诡异的饭qwq
 >(This text is for character checking, don't worry about it.I'm sorry my technical power is just too low to want to toss the code in the overview area qwq)  
 -------------------------------------------------------------------------
+
 ## 原简介
 大概就是一些半成品合集，因为不是正式完篇就不投稿了，主要是想根据大家的想法看看先写完哪些，或是找到点建议和后续发展灵感。愿意去博文下评论会万分感激的(为什么不添加网页评论功能，因为不会qwq)因为其它网站要躲审核，朋友就干脆搭了这个网页qwq  ，越写越感觉自己不适合写作，虽然写的确实痛苦..也知道自己写的一般，但没办法啊，果然还是喜欢索拉尔啊，感恩大家的阅读...就当能为圈子加点作品数啦，本质水贴(✔)   
